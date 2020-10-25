@@ -1,4 +1,4 @@
-import { CMS_NAME } from '../lib/constants'
+import { CMS_NAME } from '../lib/constants';
 
 const Intro = () => {
   return (
@@ -14,10 +14,10 @@ const Intro = () => {
         >
           Next.js
         </a>{' '}
-        and {CMS_NAME}.
+        and {CMS_NAME} by kenth;
       </h4>
     </section>
-  )
-}
+  );
+};
 
-export default Intro
+export default Intro;

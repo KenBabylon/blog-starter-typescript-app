@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "pages/api/getdir.ts": {
+      "includeFiles": "_posts/preview.md"
+    },
+    "pages/api/getdir2.js": {
+      "includeFiles": "_posts/**"
+    }
+  }
+}

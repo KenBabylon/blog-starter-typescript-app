@@ -2523,6 +2523,11 @@ diffie-hellman@^5.0.0:
     miller-rabin "^4.0.0"
     randombytes "^2.0.0"
 
+directory-tree@^2.2.5:
+  version "2.2.5"
+  resolved "https://registry.yarnpkg.com/directory-tree/-/directory-tree-2.2.5.tgz#43d167eeb87b57640cc832f794f88431ebd47300"
+  integrity sha512-qmeuql8N7hQB5b+cnlvbcHSjKBNpRjLY5KcvyFd9CTC5uTN7sJshEQ/ExZidAcEUEYcC/76i8ikLtbBMG81YRg==
+
 dom-serializer@1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/dom-serializer/-/dom-serializer-1.0.1.tgz#79695eb49af3cd8abc8d93a73da382deb1ca0795"
@@ -2914,6 +2919,18 @@ for-in@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/for-in/-/for-in-1.0.2.tgz#81068d295a8142ec0ac726c6e2200c30fb6d5e80"
   integrity sha1-gQaNKVqBQuwKxybG4iAMMPttXoA=
+
+formidable-serverless@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/formidable-serverless/-/formidable-serverless-1.0.3.tgz#5023c04b394bddcf4f6d27bfbe1c7d89dd1e5368"
+  integrity sha512-BT47bmGBk3V2kQwNPBvM5SY1Ypc08CnFinBOp05gVrH+4g7ZlxYX6kQtC8wuLjH+Qcj0Re10PY2VxBlpNIWGGQ==
+  dependencies:
+    formidable "^1.2.1"
+
+formidable@^1.2.1:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/formidable/-/formidable-1.2.2.tgz#bf69aea2972982675f00865342b982986f6b8dd9"
+  integrity sha512-V8gLm+41I/8kguQ4/o1D3RIHRmhYFG4pnNyonvua+40rqcEmT4+V71yaZ3B457xbbgCsCfjSPi65u/W6vK1U5Q==
 
 fragment-cache@^0.2.1:
   version "0.2.1"
